@@ -1,0 +1,7 @@
+{
+  "name": "Luxury Gesture Gift Box",
+  "description": "A cinematic 3D particle system controlled by hand gestures. Features a transforming holiday gift box with photo uploads, powered by MediaPipe and Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
